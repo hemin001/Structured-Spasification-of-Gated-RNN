@@ -1,5 +1,5 @@
-# Structured Sparsification of LSTM Networks for Emotion Classification  
-CS715 – Deep Learning Project  
+# Structured Sparsification of Gated RNN for Emotion Classification  
+CS715 – Advanced Data Science and Machine Learning    
 University of Regina  
 
 ## 📌 Project Overview
